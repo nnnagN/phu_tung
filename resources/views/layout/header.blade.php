@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="{{asset('')}}layout/js/jquery-1.11.1.min.js"></script>
 	
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
@@ -15,8 +15,8 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	
 	<!-- Start WOWSlider.com HEAD section -->
-	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
-	<script type="text/javascript" src="engine1/jquery.js"></script>
+	<link rel="stylesheet" type="text/css" href="{{asset('')}}layout/engine1/style.css" />
+	<script type="text/javascript" src="{{asset('')}}layout/engine1/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section -->
 
 </head>
@@ -103,8 +103,11 @@
 				    	</ul>
 				</div>
 				<div class="dropdown">
-				    <button class="btn btn-primary dropdown font-weight-bold" type="button" data-toggle="dropdown" style="font-size: 12px">SẢN PHẨM 
-					    </button>
+					<a href="{{url('/sanpham')}}">
+						<button class="btn btn-primary dropdown font-weight-bold" type="button" style="font-size: 12px">
+							SẢN PHẨM 
+						</button>
+					</a>
 					    <ul class="dropdown-menu">
 					     	<li><a class="dropdown-item" href="#">Phuộc YSS (Giảm Xóc Xe)</a></li>
 							<li><a class="dropdown-item" href="#">Lốp Xe Máy MICHELIN</a></li>
@@ -171,23 +174,23 @@
 		<div id="wowslider-container1">
 			<div class="ws_images">
 				<ul>
-					<li><img src="data1/images/c.jpg" alt="" title="" id=""/></li>
-					<li><img src="data1/images/a.jpg" alt="" title="" id=""/></li>
-					<li><img src="data1/images/b.jpg" alt="" title="" id=""/></li>
+					<li><img src="{{asset('')}}layout/data1/images/c.jpg" alt="" title="" id=""/></li>
+					<li><img src="{{asset('')}}layout/data1/images/a.jpg" alt="" title="" id=""/></li>
+					<li><img src="{{asset('')}}layout/data1/images/b.jpg" alt="" title="" id=""/></li>
 				</ul>
 			</div>
 			<div class="ws_bullets">
 				<div>
-					<a href="#" title=""><span><img src="data1/tooltips/c.jpg" alt=""/></span></a>
-					<a href="#" title=""><span><img src="data1/tooltips/a.jpg" alt=""/></span></a>
-					<a href="#" title=""><span><img src="data1/tooltips/b.jpg" alt=""/></span></a>
+					<a href="#" title=""><span><img src="{{asset('')}}layout/data1/tooltips/c.jpg" alt=""/></span></a>
+					<a href="#" title=""><span><img src="{{asset('')}}layout/data1/tooltips/a.jpg" alt=""/></span></a>
+					<a href="#" title=""><span><img src="{{asset('')}}layout/data1/tooltips/b.jpg" alt=""/></span></a>
 				</div>
 			</div>
 			<div class="ws_script" style="position:absolute;left:-99%"><a href=""></a></div>
 			<div class="ws_shadow"></div>
 		</div>	
-		<script type="text/javascript" src="engine1/wowslider.js"></script>
-		<script type="text/javascript" src="engine1/script.js"></script>
+		<script type="text/javascript" src="{{asset('')}}layout/engine1/wowslider.js"></script>
+		<script type="text/javascript" src="{{asset('')}}layout/engine1/script.js"></script>
 		<!-- End WOWSlider.com BODY section -->
 	</div>
 
