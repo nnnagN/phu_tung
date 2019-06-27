@@ -23,5 +23,16 @@ Route::prefix('/')->group(function () {
     Route::get('sanpham',function(){
         return view('layout.sanpham');
     });
-    
+    Route::get('lopMICHELIN',function(){
+        return view('layout.lopMICHELIN');
+    });
+    Route::get('phuocYSS',function(){
+        return view('layout.phuocYSS');
+    });
+    Route::get('labonoi',function(){
+        return view('layout.labonoi');
+    });
+    Route::get('lopASPIRA',function(){
+        return view('layout.lopASPIRA');
+    });
 });
