@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
+		@include('layout.header')
 <div class="container">
 	<div class="container-fluid bg-primary">
 		<div class="row">
@@ -26,49 +27,49 @@
 				<img src="http://phutungchinhhieu.com/getattachment/939949df-cb58-4944-8c0f-bdd1404c90db/michelin-city-pro.jpg.aspx?width=&height=" alt=""width="250px" height="200px">
 				<div>
 					<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Dream, Wave, Future trước 70/90-17 City Grip Pro</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 490.000 VNĐ</a>
+					<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 490.000 VNĐ</a></div>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<img src="http://phutungchinhhieu.com/getattachment/939949df-cb58-4944-8c0f-bdd1404c90db/michelin-city-pro.jpg.aspx?width=&height=" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Dream, Wave, Future sau 80/90-17 City Grip Pro</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 550.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 550.000 VNĐ</a></div>
 			</div>
 			</div>
 			<div class="col-md-4">
 				<img src="http://phutungchinhhieu.com/getattachment/939949df-cb58-4944-8c0f-bdd1404c90db/michelin-city-pro.jpg.aspx?width=&height=" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Dream, Wave trước 60/90-17 City Pro (có ruột)</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 390.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 390.000 VNĐ</a></div>
 			</div>
 		</div>
 			<div class="col-md-4">
 				<img src="http://phutungchinhhieu.com/getattachment/939949df-cb58-4944-8c0f-bdd1404c90db/michelin-city-pro.jpg.aspx?width=&height=" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe </a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 469.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 469.000 VNĐ</a></div>
 			</div>
 			</div>
 			<div class="col-md-4">
 				<img src="http://phutungchinhhieu.com/getattachment/939949df-cb58-4944-8c0f-bdd1404c90db/michelin-city-pro.jpg.aspx?width=&height=" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;">Vỏ xe Michelin Dream, Wave, Future sau 80/90-17 City Pro (có ruột)</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 569.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 569.000 VNĐ</a></div>
 			</div>
 		</div>
 			<div class="col-md-4">
 				<img src="http://phutungchinhhieu.com/getattachment/939949df-cb58-4944-8c0f-bdd1404c90db/michelin-city-pro.jpg.aspx?width=&height=" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Dream, Wave, Future sau 70/90-17 Pilot Street</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 545.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 545.000 VNĐ</a></div>
 			</div>
 			</div>
 			<div class="col-md-4">
 				<img src="https://cf.shopee.vn/file/14815b6da729487f0dd6ccfa296f276a_tn" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Dream, Wave, Future, Exciter sau 80/90-17 Pilot Street</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 685.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 685.000 VNĐ</a></div>
 			</div>
 
 			</div>
@@ -76,14 +77,14 @@
 				<img src="https://cf.shopee.vn/file/14815b6da729487f0dd6ccfa296f276a_tn" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Exciter sau độ 90/80-17 Pilot Street</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 770.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 770.000 VNĐ</a></div>
 			</div>
 			</div>
 				<div class="col-md-4">
 				<img src="https://cf.shopee.vn/file/14815b6da729487f0dd6ccfa296f276a_tn" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Dream, Wave, Future, Exciter sau 80/90-17 Pilot Street</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 685.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 685.000 VNĐ</a></div>
 			</div>
 
 			</div>
@@ -91,22 +92,22 @@
 				<img src="https://cf.shopee.vn/file/14815b6da729487f0dd6ccfa296f276a_tn" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;">Vỏ xe Michelin Exciter, CB150 sau độ 110/70-17 Pilot Street
-</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 1.060.000 VNĐ</a>
+			</a><br>
+			<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">1.060.000 VNĐ</a></div>			
 			</div>
 		</div>
 			<div class="col-md-4">
 				<img src="https://cf.shopee.vn/file/14815b6da729487f0dd6ccfa296f276a_tn" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Exciter135/150 sau độ 120/70-17 Pilot Street</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 1.070.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 1.070.000 VNĐ</a></div>
 			</div>
 			</div>
 			<div class="col-md-4">
 				<img src="https://cf.shopee.vn/file/14815b6da729487f0dd6ccfa296f276a_tn" alt=""width="250px" height="200px">
 				<div>
 				<a href="#" style="font-size: 15px; font-weight: bold;" >Vỏ xe Michelin Exciter11 sau độ 130/70-17 Pilot Street</a><br>
-				<a href="#" style="font-size: 15px">Giá bán lẻ: 1.235.000 VNĐ</a>
+				<div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;"> 1.235.000 VNĐ</a></div>
 			</div>
 			</div>
 

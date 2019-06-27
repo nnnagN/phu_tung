@@ -1,12 +1,12 @@
 a:hover{
-	background: pink;
+	background: white;
 	color: blue;
 
 
 }
 .item{
 	height: 70%;
-	overflow: hidden;
+	/* overflow: hidden; */
 	margin-top: 20px;
 }
 .col-md-3{
@@ -15,23 +15,28 @@ a:hover{
 
 }
 .chitiet:hover{
-	background-color: black;
+	background-color:#0473aaa6;
 	margin-top: 0px;
 	transition: 1s;
+
+}
+@media only screen maxwidth(1080px){
 
 }
 .col-md-3 .item:hover{
 	
 	overflow: visible;
+	/* border-left: red solid 1px;
+    padding-left: 12px; */
 }
 .img{
-	border-radius:10px;
+	border-radius:5px;
 }
 .bg-primary1{
-	background-color: #f8f9fa;
+	background-color:white;
 }
 .bg-primary2{
-	background: linear-gradient(#43b9e1, #825959);
+	background: linear-gradient(#43b9e1);
 }
 
 .anh{	    

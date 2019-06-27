@@ -10,7 +10,7 @@
         <script src="{{asset('layout/owlcarousel/jquery.min.js')}}"></script>
         <script src="{{asset('layout/owlcarousel/owl.carousel.min.js')}}"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        
+        <hr  width="100%" align="auto" />
         <div class="container-fluid bg-primary1">
         <div class="container">
         <div class="row">
@@ -20,33 +20,35 @@
         <div class="carousel-item active">
             <div class="row">
                 <div class="col-md-3 chitiet">
+                    <span class="">
                     <img src="https://web4s.vn/uploads/tiny_uploads/cung-cap-phu-tung-xe-may-gia-si-01.png" alt=""width="250px" height="200px">
-                    <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a>
-                    <a href="#" style="font-size: 15px">3.100.000 VNĐ</a><br>
-                    <a href="#" style="font-size: 15px">Dùng cho xe: Lead,Lead 125,Click I 125,Vario 125</a>
+                    <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                    <a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a><br>
+                    <a href="#" style="font-size: 15px; font-weight: bold;">Dùng cho xe: Lead,Lead 125,Click I 125,Vario 125</a>
         
                 </div>
                 <div class="col-md-3 chitiet" class="img bg-primary1">
                     <img src="http://phutungchinhhieu.com/getattachment/b43d68f8-b8b0-4422-a91a-579d25ef78b1/bugi-denso.jpg.aspx?width=600&height=341" alt="" width="250px" height="200px">
-                    <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a>
-                    <a href="#" style="font-size: 15px">3.600.000 VNĐ</a><br>
-                    <a href="#" style="font-size: 15px">Dùng cho xe: SH,New SH125/150 2013,SH150,SH New 125</a>
+                    <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                    <a href="#" style="font-size: 15px;color: red;">3.600.000 VNĐ</a><br>
+                    <a href="#" style="font-size: 15px; font-weight: bold;">Dùng cho xe: SH,New SH125/150 2013,SH150,SH New 125</a>
         
                 </div>
                 <div class="col-md-3 chitiet">
                     <div class="item">
                         <img src="https://thegioixechaydien.com.vn/uploads/files/bai-viet/vu/bai-viet/tin-hay/2017/thang-2/ngay-20/phu-tung-xe-may-gianya/phu-tung-xe-may.jpg" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a><br>
-                        <a href="#" style="font-size: 15px">Dùng cho xe: Winner</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br>
+                        <a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a><br>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Dùng cho xe: Winner</a>
                     </div>
         
         
                 </div>
                 <div class="col-md-3 chitiet">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kiNopjpekRzt1cF3v3JYjQR7puyM8mAaTg1uI_-PAqZms55F" alt="" width="250px" height="200px">
-                    <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                    <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                    <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                    <a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a><br>
+                    <a href="#" style="font-size: 15px; font-weight: bold;">Dùng cho xe: Winner</a>
         
                 </div>
             </div>
@@ -58,134 +60,161 @@
         </div>
         </div>
         </div>
-        
+        <hr  width="100%" align="auto" />
         <div class="container">
             <div class="container-fluid bg-primary2">
                 <div class="row">
                     <div class="item">
                         <div class="col-md-12">
                             <div class="btn-group"> 
-                                <a class="btn btn-default btn-md text-white" target="_blank" href="#">SẢN PHẨM TIÊU BIỂU</a>
+                                <a class="btn btn-default btn-md text-white" target="_blank" href="#" style="font-size: 27px">SẢN PHẨM TIÊU BIỂU</a>
                             </div>
                         </div>
                     </div>
                 </div>
-        
+                <hr  width="100%" align="auto" />
         </div>
-        <a tyle="font-size: 20px" style="font-weight: bold;">PHUỘC YSS (GIẢM XÓC XE MÁY)</a>
+        <div style="font-size: 30px">
+            <a style="font-weight: bold;">PHUỘC YSS (GIẢM XÓC XE MÁY)</a></div>
         <div class="col-md-12 ">
             <div id="carouselExampleControls" class="carousel slide">
                 <div class="row">
                     <div class="col-md-3">	
                         <img src="http://decalbinhduong.com/upload/images/phuoc-yss-cho-honda-click-125i.jpg" alt=""width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                        </div>
                     </div>
                     <div class="col-md-3" >
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcFL3SDqXHx02d9zoBSFMDHZf75qUPSTGUH2USi5Trgva6I8Dc" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                        <a href="#" style="font-size: 15px">3.600.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.600.000 VNĐ</a>
+                        </div>
         
                     </div>
                     <div class="col-md-3">
                         <img src="https://cf.shopee.vn/file/c530b14c4d3c14d32d5413f6f1c8c212" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                        </div>
                     </div>
                     <div class="col-md-3">
                         <img src="https://cf.shopee.vn/file/81f83e2278710e4dff1c43862e96f8e2" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        
-        <a style="font-size: 20px; font-weight: bold">LỐP XE MÁY MICHELIN - THƯƠNG HIỆU PHÁP</a>
+            </div>  
+            <hr  width="100%" align="auto" />
+        </div>  
+       
+        <div style="font-size: 30px">
+             
+        <a style="font-weight: bold;">LỐP XE MÁY MICHELIN - THƯƠNG HIỆU PHÁP</a></div>
         <div class="col-md-12 ">
             <div id="carouselExampleControls" class="carousel slide">
                 <div class="row">
                     <div class="col-md-3">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6d0HrWb7iwG6VmCu9qZdC7PLOaPaX_461OJYm477_ECyQcPnCJw" alt=""width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                        </div>
                     </div>
                     <div class="col-md-3" >
                         <img src="http://hiephoixemay.com/img/uploads/michelin-pilot-street-radial-rear-tires-min.png" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                        <a href="#" style="font-size: 15px">3.600.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.600.000 VNĐ</a>
+                        </div>
                     </div> 
                     <div class="col-md-3"> 
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrd4ryR3AwTDvC0OAJ_Jk4FmuWHWGKpKGK76YaEoh0I1pu6ZP6FA" alt="" width="250px" height="200px"> 
-                        <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner,Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi,Spa</a> 
-                        <a href="#" style="font-size: 15px" >3.100.000 VNĐ</a><br> 
+                        <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner,Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi,Spa</a> 
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;" >3.100.000 VNĐ</a><br>
+                        </div> 
                     </div> 
                     <div class="col-md-3">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ma_-eME8DiLBAL3YeDJyzG0nlqp-I__q7vVjAf7_HF2XZk2uXvU5XGk"
-                        alt="" width="250px" height="200px"> <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner,
+                        alt="" width="250px" height="200px"> <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner,
                             Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi,
                         Spa</a> 
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a><br> 
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a><br> 
+                        </div>
+            
                     </div>
         
                 </div>
             </div>
+            <hr  width="100%" align="auto" />
         </div>
-        <a tyle="font-size: 20px" style="font-weight: bold;">LÁ BỐ NỒI - CHUÔNG - BỐ BA CÀNG FCC (GUỐC VĂNG LY HỢP)</a>
+        
+        <div style="font-size: 30px">
+        <a  style="font-weight: bold;">LÁ BỐ NỒI - CHUÔNG - BỐ BA CÀNG FCC (GUỐC VĂNG LY HỢP)</a></div>
         <div class="col-md-12 ">
                 <div id="carouselExampleControls" class="carousel slide">
                     <div class="row">
                         <div class="col-md-3">
                             <img src="http://phutunghanghieu.vn/timthumb.php?src=upload/images/bo-ba-cang-fcc-vision-fi-110.jpg&w=800&h=800&zc=1&a=tc" alt=""width="250px" height="200px">
-                            <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                            <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                            <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                            <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                            </div>
                         </div>
                         <div class="col-md-3" >
                             <img src="https://cf.shopee.vn/file/4a2b6cdfa951b1a355e27195a304d00b" alt="" width="250px" height="200px">
-                            <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                            <a href="#" style="font-size: 15px">3.600.000 VNĐ</a>
+                            <a href="#" style="font-size: 15px; font-weight: bold;">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
+                            <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.600.000 VNĐ</a>
+                            </div>
                         </div> 
                         <div class="col-md-3"> 
                             <img src="http://phutungchinhhieu.com/getattachment/d19285f0-e5cf-4b30-9ec9-230c6284ad0d/la-bo-noi-fcc-ex135-con-tay.jpg.aspx?width=&height=" alt="" width="250px" height="200px"> 
-                            <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a> <br> 
-                            <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                            <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a> <br> 
+                            <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                            </div>
                         </div> 
                         <div class="col-md-3">
                             <img src="http://phutungchinhhieu.com/getattachment/64a938c2-7285-4e62-bf05-36f416aa83f5/La-sat-Ex150.jpg.aspx?width=&height=" alt="" width="250px" height="200px"> 
-                            <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner,Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br> 
-                            <a href="#" style="font-size: 15px">3.100.000 VNĐ</a> 
+                            <a href="#" style="font-size: 15px; font-weight: bold;">Bugi Denso Iridium Winner,Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a><br> 
+                            <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a> 
+                            </div>
                         </div>
                     </div>
                 </div>
+                <hr  width="100%" align="auto" />
         </div>
-        <a tyle="font-size: 20px" style="font-weight: bold;" >SƠN XE MÁY</a>
+        <div style="font-size: 30px">
+        <a style="font-weight: bold;" >SƠN XE MÁY</a>
         <div class="col-md-12 ">
             <div id="carouselExampleControls" class="carousel slide">
                 <div class="row">
                     <div class="col-md-3">
                         <img src="http://hunggiapaints.com/kcfinder/upload/images/cach-son-nham-xe-may.jpg" alt=""width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;"><p>Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</p></a>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a></div>
                     </div>
                     <div class="col-md-3" >
                         <img src="http://img.v3.news.zdn.vn/w660/Uploaded/mfssa/2016_06_21/sh1.jpg" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</a><br>
-                        <a href="#" style="font-size: 15px">3.600.000 VNĐ</a>
+                        <a href="#" style="font-size: 15px; font-weight: bold;"><p>Phuộc YSS Click I 125/150, Vario 125/150, Lead, SCR G-Sport Laser Marking</p></a>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.600.000 VNĐ</a></div>
                     </div> 
                     <div class="col-md-3">
                          <img src="http://decalhoangkim.com/upload/images/vespa-dan-doi-mau-vang-cao-cap.jpg" alt="" width="250px" height="200px">
-                        <a href="#" style="font-size: 15px">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi,
-                        Spa</a><br>
-                        <a href="#"style="font-size: 15px">3.100.000 VNĐ</a> </div> 
+                        <a href="#" style="font-size: 15px; font-weight: bold;"><p>Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi,
+                        Spa</p></a>
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#"style="font-size: 15px;color: red;">3.100.000 VNĐ</a> 
+                        </div> 
+                    </div>
                     <div class="col-md-3">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98pdXGe4exyDoOdn1wAisSRTAy2N6weS0e1pl57NqqsgQ0vid"alt="" width="250px" height="200px"> <a href="#" sstyle="font-size: 15px">Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</a> <br>
-                        <a href="#" style="font-size: 15px">3.100.000 VNĐ</a> </div>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98pdXGe4exyDoOdn1wAisSRTAy2N6weS0e1pl57NqqsgQ0vid"alt="" width="250px" height="200px"> 
+                        <a href="#" style="font-size: 15px; font-weight: bold;"><p>Bugi Denso Iridium Winner, Raider 150 Fi, Ex135/150, Sonic 125/150, @ 125/150, CBR150, CBR150Fi, Spa</p></a> 
+                        <div style="font-size: 13px">Giá bán lẻ:<a href="#" style="font-size: 15px;color: red;">3.100.000 VNĐ</a>
+                         </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
-        <a style="font-size: 13px; font-weight: bold;">TIN TỨC</a>
+        <a style="font-size: 17px; font-weight: bold;">TIN TỨC</a>
             <div class="row">
                 <div class="col-md-3">
                     <div class="nav-item">
@@ -193,7 +222,6 @@
                         <a href="" style="font-size: 17px" class="tbg-light text-dark">Tire Week - Nâng cấp lốp xe!</a>
                         <p  style="font-size: 14px">Đừng để những lốp xe mòn, bám đường không tốt làm bạn lo sợ khi gặp phải những cơn mưa bất chợt.</p>
                     </div>
-        
                 </div>
                 <div class="col-md-3">
                         <img src="http://phutungchinhhieu.com/getattachment/87d90d79-2a39-4bc7-b449-3089cd8c76c1/6.jpg.aspx" alt="" width="200px" height="100px" class="anh">
@@ -221,7 +249,6 @@
         
                     <iframe width="250" height="250" src="https://www.youtube.com/embed/rwW_ROdxRWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="250" height="250" src="https://www.youtube.com/embed/DiMqhvfyS0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                
             </div> 
             <div class="container">
             <div class="row">
