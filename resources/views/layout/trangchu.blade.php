@@ -7,6 +7,9 @@
 <link rel="stylesheet" href="{{asset('layout/styte.css')}}">
 <link rel="stylesheet" href="{{asset('layout/owlcarousel/owl.carousel.min.css')}}">
 <link rel="stylesheet" href="{{asset('layout/owlcarousel/owl.theme.default.min.css')}}">
+<link rel="stylesheet" type="text/css" href="{{ asset('lib/OwlCarousel2-2.3.4/assets/owl.carousel.min.css')}}" />
+<script src="{{asset('layout/owlcarousel/jquery.min.js')}}"></script>
+<script src="{{asset('lib/OwlCarousel2-2.3.4/owl.carousel.js')}}"></script>
 
 </head>
 <body>
