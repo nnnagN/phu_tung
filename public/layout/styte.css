@@ -6,7 +6,7 @@ a:hover{
 }
 .item{
 	height: 70%;
-	/* overflow: hidden; */
+	overflow: hidden;
 	margin-top: 20px;
 }
 .col-md-3{
@@ -33,13 +33,29 @@ a:hover{
 	border-radius:5px;
 }
 .bg-primary1{
-	background-color:white;
+	background: white;
 }
 .bg-primary2{
-	background: linear-gradient(#43b9e1);
+	background: linear-gradient(#43b9e1,#106d8b);
 }
 
 .anh{	    
-	padding-bottom: 5px;
+	padding-bottom: 3
+	px;
 
+
+}.item {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
+
+.chitiets img{
+	/* width: 200px;
+	height: 200px; */
+	object-fit: contain;
+}
+.chitiet .disabled {
+    display: block !important;
+}
+
